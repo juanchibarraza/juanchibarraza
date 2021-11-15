@@ -1,10 +1,11 @@
  ### Hi there 👋
- Soy Juan Martin Barraza, Software Developer JR
-🌱Actualmente estoy aprendiendo JavaScript
+ I am Juan Martin Barraza, Software Developer JR
+ 
+🌱I am currently learning Machine Learning, Python
 
-  👨‍💻Todos mis proyectos están disponibles aqui!
+  👨‍💻All my projects are available here!
 
-📫Cómo comunicarse conmigo juanmartinbarraza018@outlook.com
+📫How to communicate with me juanmartinbarraza018@outlook.com
 <!--
 **juanchibarraza/juanchibarraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
