@@ -1,4 +1,5 @@
-### Hi there 👋
+ ### Hi there 👋
+ Soy Juan Martin Barraza, Software Developer JR
 🌱Actualmente estoy aprendiendo JavaScript
 
   👨‍💻Todos mis proyectos están disponibles aqui!
