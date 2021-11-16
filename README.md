@@ -5,7 +5,7 @@
 
   👨‍💻All my projects are available here!
 
-📫How to communicate with me juanmartinbarraza018@outlook.com
+📫How to communicate with me: juanmartinbarraza018@outlook.com
 <!--
 **juanchibarraza/juanchibarraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
