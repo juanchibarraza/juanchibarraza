@@ -3,6 +3,8 @@
  
 🌱I am currently learning Machine Learning, Python
 
+- 🔭 I’m currently working on Oracle in the APPs Tower with Siebel CRM
+
   👨‍💻All my projects are available here!
 
 📫How to communicate with me: juanmartinbarraza018@outlook.com
@@ -11,7 +13,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
