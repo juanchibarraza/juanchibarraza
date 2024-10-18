@@ -1,7 +1,6 @@
  ### Hi there 👋
- I am Juan Martin Barraza, Software Developer JR
- 
-🌱I am currently learning Machine Learning, Python
+ I am Juan Martin Barraza, Software Developer SSR
+
 
 - 🔭 I’m currently working on Oracle in the APPs Tower with Siebel CRM
 
